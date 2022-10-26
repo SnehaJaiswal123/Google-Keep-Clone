@@ -25,7 +25,7 @@ img{
     height: 4vh;
     margin-top: 2vh;
 }
-.inp,.search{
+#search{
     cursor: pointer;
     height: 8vh;
     width:50vw;
